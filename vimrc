@@ -109,3 +109,4 @@ so ~/.yadr/vim/settings.vim
 " ================ Customization ================
 set guifont=Inconsolata:h16
 set cursorline
+set ruler
