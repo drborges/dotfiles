@@ -105,3 +105,7 @@ set sidescroll=1
 
 " ================ Custom Settings ========================
 so ~/.yadr/vim/settings.vim
+
+" ================ Customization ================
+set guifont=Inconsolata:h16
+set cursorline
